@@ -4,15 +4,6 @@ Some ideas to code
 
 # List
 
-## Research
-
-## Log/Trace
-log和trace本质上是相同的，把两者放在一起考虑，把现有的工作理出一个体系出来  
-从研究对象、研究场景、研究目标等方面考虑  
-研究对象从最简单的log，到execution trace，再到end-to-end trace  
-研究场景从只有log（大部分日志分析系统面临的是只有log），到除了log还有可执行文件，再到除了log还有源码  
-研究目标就是行为建模、故障诊断等等  
-
 ## Python
 
 ### PDF4FundingTools
